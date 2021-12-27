@@ -1,0 +1,7 @@
+[Icon Theme]
+Name=One UI 4
+Inherits=hicolor
+Comment=One UI Icon Theme
+
+#Directory List
+Directories=scalable/apps,scalable/preferences,scalable/devices,scalable/places,scalable/status
