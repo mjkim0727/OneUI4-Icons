@@ -37,7 +37,7 @@
      id="defs11942" />
   <path
      id="rect4106"
-     style="opacity:1;fill:#363636;fill-opacity:1;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
+     style="opacity:1;fill:#dedede;fill-opacity:1;stroke-width:5.00001;stroke-linecap:round;stroke-linejoin:round"
      d="M 2,0 C 0.892,0 0,0.892 0,2 v 12 c 0,1.108 0.892,2 2,2 h 8 l 6,-6 V 2 C 16,0.892 15.108,0 14,0 Z M 2,1 H 3 V 15 H 2 C 1.446,15 1,14.554 1,14 V 2 C 1,1.446 1.446,1 2,1 Z m 3,1 h 8 V 3 H 5 Z m 0,2 h 8 V 5 H 5 Z m 5.953125,5 C 10.9687,8.9995315 10.984424,9 11,9 h 4 L 9,15 V 11 C 9,9.9826465 9.9718839,9.029515 10.953125,9 Z"
      transform="scale(0.26458333)"
      sodipodi:nodetypes="ssssccssssccssssccccccccccssccss" />
