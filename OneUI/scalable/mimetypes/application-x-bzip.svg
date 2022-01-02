@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="application-x-archive.svg"
+   sodipodi:docname="application-x-bzip.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -38,6 +38,6 @@
      style="stroke-width:0.3;fill:#fafafa;fill-opacity:1" />
   <path
      id="rect1033"
-     style="fill:#9030b5;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     style="fill:#682183;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
      d="M 16 16 C 14.338 16 13 17.338 13 19 L 13 44 C 13 46.216 14.784 48 17 48 L 47 48 C 49.216 48 51 46.216 51 44 L 51 26 C 51 23.784 49.216 22 47 22 L 33 22 A 2 2 0 0 1 31 20 L 31 19 C 31 17.338 29.662 16 28 16 L 23.949219 16 A 2.5 2.5 0 0 1 24 16.5 A 2.5 2.5 0 0 1 21.5 19 A 2.5 2.5 0 0 1 19 16.5 A 2.5 2.5 0 0 1 19.066406 16 L 16 16 z M 21.5 22 A 2.5 2.5 0 0 1 24 24.5 A 2.5 2.5 0 0 1 21.5 27 A 2.5 2.5 0 0 1 19 24.5 A 2.5 2.5 0 0 1 21.5 22 z M 21.5 30 A 2.5 2.5 0 0 1 24 32.5 A 2.5 2.5 0 0 1 21.5 35 A 2.5 2.5 0 0 1 19 32.5 A 2.5 2.5 0 0 1 21.5 30 z M 21.5 38 A 2.5 2.5 0 0 1 24 40.5 A 2.5 2.5 0 0 1 21.5 43 A 2.5 2.5 0 0 1 19 40.5 A 2.5 2.5 0 0 1 21.5 38 z " />
 </svg>

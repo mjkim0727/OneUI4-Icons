@@ -29,7 +29,7 @@
      inkscape:cx="24.395185"
      inkscape:cy="35.13437"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,12 +55,10 @@
          id="stop18" />
     </linearGradient>
   </defs>
-  <circle
-     style="fill:#ffffff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.35, 0.529167"
-     id="path937"
-     cx="8.4666662"
-     cy="8.4666662"
-     r="7.4083333" />
+  <path
+     d="m 0.52916666,8.4666666 c 0,-5.7149999 2.22249994,-7.93749994 7.93749994,-7.93749994 5.7149994,0 7.9374994,2.22250004 7.9374994,7.93749994 0,5.7149994 -2.2225,7.9374994 -7.9374994,7.9374994 -5.715,0 -7.93749994,-2.2225 -7.93749994,-7.9374994"
+     id="path2"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.079375" />
   <path
      id="rect1150"
      style="fill:#3086f6;stroke-width:0.273089"
