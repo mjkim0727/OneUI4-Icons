@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="folder-temp.svg"
+   sodipodi:docname="folder-recent.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="35.178562"
-     inkscape:cy="35.841475"
+     inkscape:zoom="32"
+     inkscape:cx="37.875"
+     inkscape:cy="36.109375"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -43,5 +43,5 @@
   <path
      id="path17266"
      style="fill:#c5660a;fill-opacity:1;stroke:none;stroke-width:2.83955;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 32 27 C 27.581722 27 24 30.581722 24 35 C 24 39.418278 27.581722 43 32 43 C 36.418278 43 40 39.418278 40 35 C 40 30.581722 36.418278 27 32 27 z M 32 29 A 1 1 0 0 1 33 30 L 33 34 L 37 34 A 1 1 0 0 1 38 35 A 1 1 0 0 1 37 36 L 33 36 L 31 36 L 31 34 L 31 30 A 1 1 0 0 1 32 29 z " />
+     d="M 32 27 A 8 8 0 0 0 24 35 A 8 8 0 0 0 32 43 A 8 8 0 0 0 40 35 A 8 8 0 0 0 32 27 z M 32 29 C 32.554 29 33 29.446 33 30 L 33 34.59375 L 35.537109 37.130859 C 35.928846 37.522596 35.928846 38.153185 35.537109 38.544922 C 35.145372 38.93666 34.514785 38.93666 34.123047 38.544922 L 31.292969 35.716797 C 31.196758 35.620586 31.127077 35.508587 31.078125 35.390625 C 31.027419 35.268436 31 35.139824 31 35.009766 C 31 35.007813 30.999989 35.005859 31 35.003906 C 30.999995 35.00258 31 35.001327 31 35 L 31 30 C 31 29.446 31.446 29 32 29 z " />
 </svg>
