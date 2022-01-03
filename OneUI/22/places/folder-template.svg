@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="22"
+   height="22"
+   viewBox="0 0 5.8208331 5.8208336"
+   version="1.1"
+   id="svg11945"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="folder-template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11947"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="17.500893"
+     inkscape:cx="3.6283863"
+     inkscape:cy="10.342329"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11945"
+     showguides="true" />
+  <defs
+     id="defs11942" />
+  <path
+     id="path2103"
+     style="color:#000000;fill:#363636;fill-opacity:1;stroke:none;stroke-width:1.00053;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 4.9015203,1.3230744 c -0.02903,-0.00142 -0.05772,0.00675 -0.081641,0.023253 L 0.84994775,4.2576326 c -0.104597,0.073884 -0.0536645,0.2383602 0.0744071,0.2402834 H 4.8942862 C 4.9677622,4.4981588 5.0273736,4.438545 5.0270823,4.3651142 V 1.4553595 c -1.48e-5,-0.048919 -0.027043,-0.093836 -0.070273,-0.1167829 -0.017072,-0.00915 -0.035946,-0.01444 -0.055289,-0.015502 z M 4.7635569,1.7075279 V 4.2343793 H 1.3480622 Z M 4.3651687,2.3813458 c -0.028089,1.057e-4 -0.055416,0.00916 -0.078024,0.025837 L 2.6993664,3.7300488 C 2.5965506,3.8064818 2.6513864,3.969934 2.7794574,3.968782 H 4.3672355 C 4.4390375,3.9679236 4.4970513,3.909907 4.4979648,3.8380471 v -1.324933 c -2.78e-4,-0.049568 -0.028192,-0.094831 -0.07234,-0.1172997 -0.018718,-0.00956 -0.039442,-0.014518 -0.060456,-0.014469 z M 4.2344394,2.7766507 V 3.7047286 H 3.1737119 Z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+</svg>
