@@ -222,7 +222,7 @@ Scale=2
 Size=16
 Type=Fixed
 
-[16@2x/apps]com.github.junrrein.PDFSlicer.svg
+[16@2x/apps]
 Context=Applications
 Scale=2
 Size=16
