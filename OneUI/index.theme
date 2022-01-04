@@ -106,6 +106,8 @@ Context=Places
 Size=24
 Type=Fixed
 
+#32
+
 #scalable
 [scalable/apps]
 Context=Applications
@@ -325,6 +327,8 @@ Context=Places
 Scale=2
 Size=24
 Type=Fixed
+
+#32@2x
 
 #scalable@2x
 [scalable@2x/apps]
