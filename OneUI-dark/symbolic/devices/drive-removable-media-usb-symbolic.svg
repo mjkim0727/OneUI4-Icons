@@ -1,5 +1,48 @@
-<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-.04321)" fill="#dedede">
-  <path d="m6.0432 2h1v1h-1zm3 0v1h-1v-1zm2 2q0.21094 0 0.39062 0.078125 0.17969 0.078125 0.3125 0.21875 0.14062 0.13281 0.21875 0.3125t0.078125 0.39062v10q0 0.21094-0.07813 0.39062-0.07813 0.17969-0.21875 0.32031-0.13281 0.13281-0.3125 0.21094-0.17968 0.078125-0.39062 0.078125h-7q-0.21094 0-0.39062-0.078125t-0.32031-0.21094q-0.13281-0.14062-0.21094-0.32031-0.078125-0.17969-0.078125-0.39062v-10q0-0.21094 0.078125-0.39062t0.21094-0.3125q0.14062-0.14062 0.32031-0.21875t0.39062-0.078125v-4h7zm-6 0h5v-3h-5zm6 1h-7v10h7z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg848"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="drive-removable-media-usb-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview850"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="24.15625"
+     inkscape:cx="3.1875809"
+     inkscape:cy="7.3065977"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs845" />
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1876"
+       style="fill:#dedede;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+       d="M 6,1 C 5.4460003,1 5,1.446 5,2 V 5 C 4.4460003,5 4,5.4459999 4,6 v 6 c 0,1.662 1.338,3 3,3 h 2 c 1.662,0 3,-1.338 3,-3 V 6 C 12,5.4459999 11.554,5 11,5 V 2 C 11,1.446 10.554,1 10,1 Z m 0,1 h 4 V 5 H 6 Z M 5,6 h 6 v 5.947266 c 4.33e-4,0.0172 0,0.03542 0,0.05273 0,1.108 -0.892,2 -2,2 H 7 c -1.1080001,0 -2,-0.892 -2,-2 0,-0.01731 -4.33e-4,-0.03553 0,-0.05273 z"
+       transform="scale(0.26458333)" />
+  </g>
 </svg>

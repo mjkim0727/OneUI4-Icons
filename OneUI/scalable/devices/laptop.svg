@@ -3,7 +3,7 @@
    viewbox="0 0 200 200"
    version="1.1"
    id="svg4"
-   sodipodi:docname="laptop.svg"
+   sodipodi:docname="blueman-laptop.svg"
    width="64"
    height="64"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="11.313708"
-     inkscape:cx="40.967999"
-     inkscape:cy="40.039922"
+     inkscape:cx="40.923807"
+     inkscape:cy="39.995729"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,6 +43,6 @@
      sodipodi:nodetypes="cssccsscc" />
   <path
      d="m 13.5,44 c -0.831,0 -1.5,0.669 -1.5,1.5 0,0.831 0.669,1.5 1.5,1.5 h 37 C 51.331,47 52,46.331 52,45.5 52,44.669 51.331,44 50.5,44 Z"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:3.97495;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#194faf;fill-opacity:1;stroke-width:3.97495;stroke-linecap:round;stroke-linejoin:round"
      id="path6398" />
 </svg>
