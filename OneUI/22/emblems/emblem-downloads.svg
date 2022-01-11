@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="application-menu.svg"
+   sodipodi:docname="emblem-downloads.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,7 +29,7 @@
      inkscape:cx="4.5598991"
      inkscape:cy="13.054224"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,9 +37,9 @@
   <defs
      id="defs2" />
   <path
-     d="m 0.52916667,2.9104166 c 0,-1.7144999 0.66675003,-2.38124993 2.38124993,-2.38124993 1.7145,0 2.38125,0.66675003 2.38125,2.38124993 0,1.7145 -0.66675,2.38125 -2.38125,2.38125 -1.7144999,0 -2.38124993,-0.66675 -2.38124993,-2.38125"
+     d="m 0.79375,2.9104166 c 0,-1.5239999 0.5926667,-2.1166666 2.1166666,-2.1166666 1.524,0 2.1166667,0.5926667 2.1166667,2.1166666 0,1.524 -0.5926667,2.1166667 -2.1166667,2.1166667 -1.5239999,0 -2.1166666,-0.5926667 -2.1166666,-2.1166667"
      id="path2"
-     style="opacity:0.9;fill:#2190c0;fill-opacity:1;stroke:none;stroke-width:0.0238125" />
+     style="opacity:0.9;fill:#2190c0;fill-opacity:1;stroke:none;stroke-width:0.0211667" />
   <path
      id="path8764"
      style="fill:#ffffff;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round"
