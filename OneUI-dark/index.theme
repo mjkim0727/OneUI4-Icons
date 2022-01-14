@@ -107,6 +107,10 @@ Size=24
 Type=Fixed
 
 #32
+[32/status]
+Context=Status
+Size=32
+Type=Fixed
 
 #scalable
 [scalable/apps]
