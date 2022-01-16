@@ -5,7 +5,7 @@
 One UI Icons for Linux
 
 # Based On
-* [!Fluent-icon-theme by vinceliuice](https://github.com/vinceliuice/Fluent-icon-theme)
+* [Fluent-icon-theme by vinceliuice](https://github.com/vinceliuice/Fluent-icon-theme)
 
 # Preview
 ![Preview](preview/preview.png)
