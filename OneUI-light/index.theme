@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=One UI 4 (Light)
-Inherits=hicolor
+Inherits=OneUI,hicolor
 Comment=One UI Icon Theme
 
 #Directory List
