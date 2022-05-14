@@ -4,7 +4,7 @@ Inherits=hicolor
 Comment=One UI Icon Theme
 
 #Directory List
-Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/places,16/status,22/actions,22/categories,22/devices,22/emblems,22/mimetypes,22/panel,22/places,24/actions,24/animations,24/devices,24/panel,24/places,32/apps,256/applets,scalable/apps,scalable/devices,scalable/mimetypes,scalable/places,scalable/preferences,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,16@2x/actions,16@2x/apps,16@2x/devices,16@2x/mimetypes,16@2x/panel,16@2x/emblems,16@2x/status,22@2x/actions,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/mimetypes,22@2x/panel,22@2x/places,24@2x/actions,24@2x/animations,24@2x/devices,24@2x/panel,24@2x/places,256@2x/applets,scalable@2x/apps,scalable@2x/devices,scalable@2x/mimetypes,scalable@2x/places,scalable@2x/preferences,scalable@2x/status
+Directories=16/actions,16/apps,16/devices,16/mimetypes,16/panel,16/places,16/status,22/actions,22/categories,22/devices,22/emblems,22/mimetypes,22/panel,22/places,24/actions,24/animations,24/devices,24/panel,24/places,32/apps,32/status,256/applets,scalable/apps,scalable/devices,scalable/mimetypes,scalable/places,scalable/preferences,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,16@2x/actions,16@2x/apps,16@2x/devices,16@2x/mimetypes,16@2x/panel,16@2x/emblems,16@2x/status,22@2x/actions,22@2x/categories,22@2x/devices,22@2x/emblems,22@2x/mimetypes,22@2x/panel,22@2x/places,24@2x/actions,24@2x/animations,24@2x/devices,24@2x/panel,24@2x/places,256@2x/applets,scalable@2x/apps,scalable@2x/devices,scalable@2x/mimetypes,scalable@2x/places,scalable@2x/preferences,scalable@2x/status
 
 #16px
 [16/actions]
@@ -107,6 +107,11 @@ Size=24
 Type=Fixed
 
 #32
+[32/apps]
+Context=Applications
+Size=32
+Type=Fixed
+
 [32/status]
 Context=Status
 Size=32
@@ -339,6 +344,17 @@ Size=24
 Type=Fixed
 
 #32@2x
+[32@2x/apps]
+Context=Applications
+Scale=2
+Size=32
+Type=Fixed
+
+[32@2x/status]
+Context=Status
+Scale=2
+Size=32
+Type=Fixed
 
 #scalable@2x
 [scalable@2x/apps]
