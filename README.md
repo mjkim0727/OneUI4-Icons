@@ -2,7 +2,7 @@
 
 [<img src="logo.png" width="320"/>](logo.png)
 
-One UI Icons for Linux
+Succeeded project for OneUI
 
 # Based On
 * [Fluent-icon-theme by vinceliuice](https://github.com/vinceliuice/Fluent-icon-theme)
@@ -22,3 +22,5 @@ One UI Icons for Linux
 
 * <img src = "OneUI/scalable/apps/desktop-environment-xfce.svg" width="16" height="16"> Xfce
 ![Xfce](screenshots/screenshot-xfce.png)
+
+# Migration to OneUI-Icons
